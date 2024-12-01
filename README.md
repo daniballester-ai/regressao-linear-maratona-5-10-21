@@ -22,6 +22,7 @@ O arquivo `maratona-5-10-21.csv` contém os dados processados para esta análise
 
 **Exemplo da Calculadora Interativa:**
 
-<img src="[calculadora.jpg](https://github.com/daniballester-ai/regressao-linear-maratona-5-10-21/blob/main/calculadora.jpg)" alt="Exemplo da calculadora" width="400">  
+![Calculadora Interativa](https://github.com/daniballester-ai/regressao-linear-maratona-5-10-21/blob/main/calculadora.jpg))
+
 
 Feito com 💚 por **daniballester-ai**
