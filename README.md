@@ -8,8 +8,9 @@ Este projeto analisa dados de uma corrida para criar um perfil dos participantes
 O arquivo `maratona-5-10-21.csv` contém os dados processados para esta análise.  **Para usar este notebook:**
 
 1. **Baixe o arquivo `maratona-5-10-21.csv` deste repositório.**
-2. **Abra este notebook no Google Colab clicando no botão "Open in Colab".**
-3. **No Colab, carregue o arquivo `maratona-5-10-21.csv` para o seu Google Drive e aponte o caminho correto no código.** (Você precisará ajustar o caminho no código Python para refletir a localização do arquivo no seu Drive.)
+2. **Abra o arquivo notebook "maratona_5_10_21.ipynb" que está no reposítorio.
+3. Com o arquivo aberto, **clique no botão superior "Open in Colab".**
+4. No Colab, **carregue o arquivo `maratona-5-10-21.csv`** para o seu Google Drive e aponte o caminho correto no código. (Você precisará ajustar o caminho no código Python para refletir a localização do arquivo no seu Drive.)
 
 
 **Objetivos:**
