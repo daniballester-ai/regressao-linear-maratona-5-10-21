@@ -25,4 +25,4 @@ O arquivo `maratona-5-10-21.csv` contém os dados processados para esta análise
 ![Calculadora Interativa](https://github.com/daniballester-ai/regressao-linear-maratona-5-10-21/blob/main/calculadora.jpg))
 
 
-Feito com 💚 por **daniballester-ai**
+Feito por **daniballester-ai**
