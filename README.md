@@ -1,9 +1,5 @@
 # 🏃‍♀️💨 Análise de Dados de Corrida: Uma Abordagem Estatística 📊
 
-**Disciplina:** Estatística para Ciência de Dados  
-
-**Professores:** 👨‍🏫 Henrique Rocha de Medeiros e 👨‍🏫 Felipe Macedo Zumba
-
 Este projeto analisa dados de uma corrida para criar um perfil dos participantes, comparar frequências entre homens e mulheres em diferentes distâncias e construir modelos de *machine learning* para prever o tempo de corrida com base no ritmo. Os dados utilizados são inspirados nos resultados da **Meia Maratona PRF 191 - Extraoficial - 2023**, e foram consolidados em um arquivo CSV.
 
 
