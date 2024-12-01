@@ -1,2 +1,31 @@
-# regressao-linear-maratona-5-10-21
-Repositorio para análise que tem como objetivo geral criar um perfil dos participantes de uma corrida, utilizando técnicas de estatística descritiva e inferencial, e aplicar conceitos de machine learning para prever o tempo final de corrida baseado no ritmo dos participantes.
+# 🏃‍♀️💨 Análise de Dados de Corrida: Uma Abordagem Estatística 📊
+
+**Disciplina:** Estatística para Ciência de Dados  
+
+**Professores:** 👨‍🏫 Henrique Rocha de Medeiros e 👨‍🏫 Felipe Macedo Zumba
+
+Este projeto analisa dados de uma corrida para criar um perfil dos participantes, comparar frequências entre homens e mulheres em diferentes distâncias e construir modelos de *machine learning* para prever o tempo de corrida com base no ritmo. Os dados utilizados são inspirados nos resultados da **Meia Maratona PRF 191 - Extraoficial - 2023**, e foram consolidados em um arquivo CSV.
+
+
+**Dados:**
+
+O arquivo `maratona-5-10-21.csv` contém os dados processados para esta análise.  **Para usar este notebook:**
+
+1. **Baixe o arquivo `maratona-5-10-21.csv` deste repositório.**
+2. **Abra este notebook no Google Colab clicando no botão "Open in Colab".**
+3. **No Colab, carregue o arquivo `maratona-5-10-21.csv` para o seu Google Drive e aponte o caminho correto no código.** (Você precisará ajustar o caminho no código Python para refletir a localização do arquivo no seu Drive.)
+
+
+**Objetivos:**
+
+* 🎯 **Perfil dos participantes:** Analisar a distribuição de participantes por sexo e distância (5km, 10km, 21km).
+* 🧐 **Comparação de frequências:** Realizar um teste Qui-quadrado para comparar a frequência de homens e mulheres em cada distância.
+* 🧮 **Modelagem preditiva:** Construir modelos de regressão linear para prever o tempo de corrida em função do ritmo, para cada distância separadamente.
+* 🤖 **Predição interativa:** Criar uma aplicação interativa para estimar o tempo final com base na entrada do ritmo e da distância.
+
+
+**Exemplo da Calculadora Interativa:**
+
+<img src="[calculadora.jpg](https://github.com/daniballester-ai/regressao-linear-maratona-5-10-21/blob/main/calculadora.jpg)" alt="Exemplo da calculadora" width="400">  
+
+Feito com 💚 por **daniballester-ai**
